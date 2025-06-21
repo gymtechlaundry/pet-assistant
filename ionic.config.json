@@ -1,0 +1,7 @@
+{
+  "name": "pet-assistant-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
