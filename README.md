@@ -60,9 +60,9 @@ ionic capacitor build ios
 
 ## 📦 Roadmap
 
-- [x] Pet profile management
-- [x] Reminder and scheduling system
-- [x] Health record logging
+- [ ] Pet profile management
+- [ ] Reminder and scheduling system
+- [ ] Health record logging
 - [ ] AI Vet Assistant (GPT integration)
 - [ ] Cloud sync and backup
 - [ ] Multi-user collaboration
