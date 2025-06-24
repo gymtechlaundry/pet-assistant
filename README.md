@@ -1,24 +1,24 @@
-# Pet Assistant
+# 🐾 Pet Assistant
 
 **Pet Assistant** is your smart companion for managing your pet’s health, care, and documentation. Built with Ionic and Angular, this mobile app helps you keep track of your pet’s medical records, grooming schedules, reminders, and more — all from one place.
 
 ---
 
-## Features
+## 📱 Features
 
-- Manage profiles for multiple pets
-- Store medical records, vaccinations, and vet visits
-- Set grooming and vet appointment reminders
-- Log medications and care routines
-- Upload pet photos and vet documents
-- Receive daily and recurring reminders
-- Future-ready AI Vet Assistant integration
-- Light and Dark Mode support
-- Offline-first with optional cloud sync (coming soon)
+- 📁 Manage profiles for multiple pets
+- 🩺 Store medical records, vaccinations, and vet visits
+- 🗓️ Set grooming and vet appointment reminders
+- 💊 Log medications and care routines
+- 📷 Upload pet photos and vet documents
+- 🔔 Receive daily and recurring reminders
+- 🧠 Future-ready AI Vet Assistant integration
+- 🌙 Light and Dark Mode support
+- 📶 Offline-first with optional cloud sync (coming soon)
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend:** Ionic + Angular
 - **Backend:** Spring Boot (future version)
@@ -28,7 +28,7 @@
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Clone the repository
 
@@ -58,18 +58,18 @@ ionic capacitor build ios
 
 ---
 
-## Roadmap
+## 📦 Roadmap
 
-- [ ] Pet profile management
-- [ ] Reminder and scheduling system
-- [ ] Health record logging
+- [x] Pet profile management
+- [x] Reminder and scheduling system
+- [x] Health record logging
 - [ ] AI Vet Assistant (GPT integration)
 - [ ] Cloud sync and backup
 - [ ] Multi-user collaboration
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 _(Coming soon)_
 
@@ -81,7 +81,6 @@ MIT License © 2025 [Your Name or Organization]
 
 ---
 
-## Contributing
+## ❤️ Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
